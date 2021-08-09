@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Anime-Quote-Generator/static/css/main.6a0b3447.chunk.css",
+    "main.css": "/Anime-Quote-Generator/static/css/main.ceac67b1.chunk.css",
     "main.js": "/Anime-Quote-Generator/static/js/main.d1aef84b.chunk.js",
     "main.js.map": "/Anime-Quote-Generator/static/js/main.d1aef84b.chunk.js.map",
     "runtime-main.js": "/Anime-Quote-Generator/static/js/runtime-main.8780cda5.js",
@@ -8,13 +8,13 @@
     "static/js/2.c3b8e87b.chunk.js": "/Anime-Quote-Generator/static/js/2.c3b8e87b.chunk.js",
     "static/js/2.c3b8e87b.chunk.js.map": "/Anime-Quote-Generator/static/js/2.c3b8e87b.chunk.js.map",
     "index.html": "/Anime-Quote-Generator/index.html",
-    "static/css/main.6a0b3447.chunk.css.map": "/Anime-Quote-Generator/static/css/main.6a0b3447.chunk.css.map",
+    "static/css/main.ceac67b1.chunk.css.map": "/Anime-Quote-Generator/static/css/main.ceac67b1.chunk.css.map",
     "static/js/2.c3b8e87b.chunk.js.LICENSE.txt": "/Anime-Quote-Generator/static/js/2.c3b8e87b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8780cda5.js",
     "static/js/2.c3b8e87b.chunk.js",
-    "static/css/main.6a0b3447.chunk.css",
+    "static/css/main.ceac67b1.chunk.css",
     "static/js/main.d1aef84b.chunk.js"
   ]
 }
